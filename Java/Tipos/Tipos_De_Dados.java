@@ -1,3 +1,4 @@
+package Tipos;
 public class Tipos_De_Dados{
     public static void main(String[] args){
         //print
