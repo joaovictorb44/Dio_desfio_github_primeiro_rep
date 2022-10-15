@@ -55,7 +55,7 @@ public class Main {
         
         int verificador;
 
-       System.out.println("digite 'Sim' para continuar: ");
+       System.out.println("digite '1' para continuar: ");
        verificador = leitor.nextInt();
 
         do{ 
