@@ -19,7 +19,7 @@ public class ExemploEcecao extends Exception {
             }
         }
         
-        return("gay");
+        return("Cep Verificado!");
     }
 
     public static void main(String[] args){
